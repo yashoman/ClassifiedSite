@@ -1,0 +1,7 @@
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\obj\Debug\ClassifiedSiteAdmin.csprojResolveAssemblyReference.cache
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\bin\ClassifiedSiteAdmin.dll
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\bin\ClassifiedSiteAdmin.pdb
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\bin\CLibrary.dll
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\bin\CLibrary.pdb
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\obj\Debug\ClassifiedSiteAdmin.dll
+F:\Projects\Classified Site Admin Panel\ClassifiedSiteAdmin\ClassifiedSiteAdmin\obj\Debug\ClassifiedSiteAdmin.pdb
